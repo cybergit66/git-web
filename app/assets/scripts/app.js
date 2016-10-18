@@ -7,5 +7,6 @@ import Modal from './modules/Modal';
 var mobilemenu = new MobileMenu();
 new RevealOnScroll($(".feature-item"), "85%");
 new RevealOnScroll($(".testimonial"), "60%");
-var stickHeader = new StickyHeader();
+var stickyHeader = new StickyHeader();
 var modal = new Modal();
+//trigger save

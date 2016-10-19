@@ -12,7 +12,7 @@ class Modal {
         // clicking the open modal button
         this.openModalButton.click(this.openModal.bind(this));
         
-        // clicking the close buttom
+        // clicking the x close buttom
         this.closeModalButton.click(this.closeModal.bind(this));
         
         // pushing any key
